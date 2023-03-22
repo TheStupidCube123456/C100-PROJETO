@@ -1,0 +1,28 @@
+#footnote {
+    margin-left: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+    font-weight: 600;
+}
+
+h2, h3, h4, h5, h6, label, p {
+    font-family:'Times New Roman', Times, serif;
+    color: wheat;
+}
+
+#resultShow {
+    flex-direction: row;
+    columns: 3;
+}
+
+.collumn {
+    width: 10
+}
